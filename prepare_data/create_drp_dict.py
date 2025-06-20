@@ -179,8 +179,6 @@ def n_fold_split(type='mix', drug_name = None, cell_name = None, drug_response_d
    random.seed(seed)
    print("Train type is : ",{type})
    if type == 'mix':
-        
-        seed = 2048
         random.seed(seed)
         np.random.seed(seed)
         num_total = len(drug_response_dict) 
