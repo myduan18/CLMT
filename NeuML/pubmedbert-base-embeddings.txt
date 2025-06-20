@@ -1,0 +1,1 @@
+Download folder from https://huggingface.co/NeuML/pubmedbert-base-embeddings/tree/main
